@@ -4,6 +4,9 @@
 
 Welcome to the "Exploring London's Travel Network" project! In this project, we'll delve into London's extensive public transport system, managed by Transport for London (TfL). TfL oversees various modes of transportation, including the London Underground, buses, trams, river services, and more. We'll analyze public transport journey volume data to gain insights into London's travel network.
 
+Emirates Airline cable car link: https://en.wikipedia.org/wiki/London_cable_car
+The Mayor of London's office data link: https://data.london.gov.uk/dataset
+
 ## Data Source
 
 Work with a modified dataset from the Mayor of London's office, available through a Snowflake database named TFL. The dataset, stored in the `TFL.JOURNEYS` table, contains information about public transport journeys, including:
